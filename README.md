@@ -32,7 +32,7 @@ Este é um exemplo básico para demonstrar como o Spring Batch pode ser usado pa
 
 ### Configuração
 * Java 21
-* Spring Boot 3.3.1
+* Spring Boot version 3.3.1
 * Gradle
 * H2 Data Base - JDBC URL: jdbc:h2:mem:testdb - http://localhost:8080/h2-console
 
